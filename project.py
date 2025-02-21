@@ -5,7 +5,6 @@ st.set_page_config(page_title= "Muhammadnomangrowthmindset project",project_icon
 st.title("Muhammad Noman Growth Mindset Project Ai project")
 
 st.header("💞 weclcome to your Growth jouney")
-. This Ai -powered app helps youbuild a growth mindset by providing you with the tools and resources you need to overcome challenges and achieve your goals. Whether you're looking to improve your skills, build new habits, or develop a positive mindset, this app has everything you need to succeed. Let's get started! ")
 
 # quote section 
 st.header("💚 To day's Growth Mindst Quote")
