@@ -8,7 +8,7 @@ st.header("💞 weclcome to your Growth jouney")
 
 # quote section 
 st.header("💚 To day's Growth Mindst Quote")
-st.write(""Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill")
+st.write("Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill")
 -
 st.header("♡ wahat's Your challenge today?")
 user_input = st.text_input("Describe your challenge today", "e.g. I'm struggling to stay focused on my work")
