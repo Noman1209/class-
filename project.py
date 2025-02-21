@@ -16,7 +16,7 @@ user_input = st.text_input("Describe your challenge today", "e.g. I'm struggling
 
 #condition
 if user_input:
-    st.success(f"💪you're faction:{user_input}.keep pushing forward to word your goal!"💪")
+    st.success(f"you're faction:{user_input}.keep pushing forward to word your goal!")
 else:
     st.warning("🤔What's your challenge today?")     
     
